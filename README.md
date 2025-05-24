@@ -1,6 +1,6 @@
-# INGREDIFY - CC25-CF017 - CODING CAMP 2025 - DBS FOUNDATION
+# Ingredify - CC25-CF017 - Coding Camp 2025 - DBS Foundation
 
-## TEAM MEMBERS
+## Team Members
 | Name                                 | Cohort ID     | Github      | Linkedin    |
 | ------------------------------------ | ------------- | ----------- | ----------- |
 | Aulia Dwi Yulianti                   | MC325D5X0765  |             | Title       |
