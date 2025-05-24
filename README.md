@@ -10,4 +10,6 @@ ___
 | Shinzi                               | FC325D5Y2191  | [Shinzi04](https://github.com/Shinzi04)|             |
 ___
 ## Project Branch
-|[FEBE](https://github.com/Ingredify/FEBE)|
+|Branch|
+|-----------------------------------------|
+|https://github.com/Ingredify/FEBE|
