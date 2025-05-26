@@ -6,7 +6,7 @@ ___
 | Aulia Dwi Yulianti                   | MC325D5X0765  |             |             |
 | Benevito Kevin Sebastian Hariandja   | MC325D5Y0757  | [Benevito535220222](https://github.com/Benevito535220222) | [Benevito](https://www.linkedin.com/in/benevito-kevin-sebastian-hariandja-880909351/) |
 | Given Putra                          | MC325D5Y0398  |            |             |
-| Jonathan Kennedy Torsandy            | FC325D5Y0639  | [Jeqaa](https://github.com/Jeqaa)|[Jonathan](www.linkedin.com/in/jonathan-kennedy-t) |
+| Jonathan Kennedy Torsandy            | FC325D5Y0639  | [Jeqaa](https://github.com/Jeqaa)|[Jonathan](https://www.linkedin.com/in/jonathan-kennedy-t) |
 | Shinzi                               | FC325D5Y2191  | [Shinzi04](https://github.com/Shinzi04)|[Shinzi](https://www.linkedin.com/in/shinzi-tjai-7b5418252/) |
 ___
 ## Project Branch
