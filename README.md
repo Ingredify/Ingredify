@@ -1,7 +1,5 @@
 # Ingredify - CC25-CF017 - Coding Camp 2025 - DBS Foundation
-___
 
-# 🥕 Ingredify - Your Smart Kitchen Guide
 > Aplikasi web yang membantu mengurangi limbah makanan rumah tangga dengan merekomendasikan resep berdasarkan bahan makanan yang tersedia.
 
 Tema: Environment and Sustainibility
