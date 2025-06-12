@@ -16,6 +16,9 @@ ___
 ___
 ## Project Branch
 ML   : https://github.com/Ingredify/ML-Ingredify
-
 FEBE : https://github.com/Ingredify/FEBE
 
+## Project Documents
+- Project Plan: https://docs.google.com/document/d/1EeZ_8NS1BL-0xVr0GZf7Km6DHc76JbqJlVcWdm7SZZg/edit?usp=sharing
+- Project Brief: https://docs.google.com/document/d/1r7LGxBtCcynxwfOaOh8lesG_QnVK2s2XES9wRF-qk28/edit?usp=sharing
+- PPT: 
