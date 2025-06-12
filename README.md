@@ -1,5 +1,9 @@
 # Ingredify - CC25-CF017 - Coding Camp 2025 - DBS Foundation
 ___
+
+# 🍳 Ingredify - Your Smart Kitchen Guide
+___
+
 ## Team Members
 | Name                                 | Cohort ID     | Github      | Linkedin    |
 | ------------------------------------ | ------------- | ----------- | ----------- |
