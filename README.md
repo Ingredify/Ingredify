@@ -21,4 +21,4 @@ ___
 ## Project Documents
 - Project Plan: https://docs.google.com/document/d/1EeZ_8NS1BL-0xVr0GZf7Km6DHc76JbqJlVcWdm7SZZg/edit?usp=sharing
 - Project Brief: https://docs.google.com/document/d/1r7LGxBtCcynxwfOaOh8lesG_QnVK2s2XES9wRF-qk28/edit?usp=sharing
-- PPT: 
+- PPT: https://www.canva.com/design/DAGqC1Y1flY/yVaViGMgvH8QAsRzE18adA/edit?utm_content=DAGqC1Y1flY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
